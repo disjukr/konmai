@@ -1,6 +1,6 @@
 {
   "name": "konmai",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "konami e-amusement utils",
   "main": "lib/index.js",
   "author": "JongChan Choi <jong@chan.moe>",
