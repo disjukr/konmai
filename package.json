@@ -1,0 +1,24 @@
+{
+  "name": "konmai",
+  "version": "0.0.0",
+  "description": "konami e-amusement utils",
+  "main": "lib/index.js",
+  "author": "JongChan Choi <jong@chan.moe>",
+  "license": "MIT",
+  "scripts": {
+    "clean": "rm -rf lib",
+    "build": "tsc"
+  },
+  "dependencies": {
+    "@types/tough-cookie": "^4.0.0",
+    "axios": "^0.19.2",
+    "axios-cookiejar-support": "^1.0.0",
+    "hasha": "^5.2.0",
+    "tough-cookie": "^4.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^14.0.14",
+    "sucrase": "^3.15.0",
+    "typescript": "^3.9.5"
+  }
+}
