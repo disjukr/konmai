@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "@types/tough-cookie": "^4.0.0",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "axios-cookiejar-support": "^1.0.0",
     "hasha": "^5.2.0",
     "tough-cookie": "^4.0.0"
